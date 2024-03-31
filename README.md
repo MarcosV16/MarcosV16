@@ -3,6 +3,8 @@
 #### 💡 Curiosidade é minha marca registrada. Estou constantemente buscando novas ideias, soluções criativas e insights inovadores para enfrentar os desafios do desenvolvimento de software.
 ####  📚 Sempre em busca de conhecimento, estou constantemente mergulhando em novas áreas, desde as últimas tendências tecnológicas até os princípios fundamentais da ciência da computação.
 
+### No momento estou em busca de especialização em Front-End, utilizando HTML, CSS, JavaScript, Java e PHP.
+
 ## Conhecimentos em:
 
 <p align="center">
